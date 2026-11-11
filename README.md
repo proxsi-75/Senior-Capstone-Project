@@ -1,2 +1,5 @@
-# Senior-Capstone-Project
-Senior Capstone Project
+#student information
+chinese name:yanziyao
+english name:yahya
+student id:202384014035
+#
